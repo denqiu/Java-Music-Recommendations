@@ -1,5 +1,5 @@
 # Java-Music-Recommendations
-# Uses a custom-made algorithm called Brute Force to show a set number of songs that an user may like based on the characteristics of a song they listened to
+# Uses a custom-made algorithm called Brute Force -- [Algorithm](https://github.com/dwq9172/Java-Music-Recommendations/blob/master/BruteForce.java), [Output](https://github.com/dwq9172/Java-Music-Recommendations/blob/master/BruteForce.txt) -- to show a set number of songs that an user may like based on the characteristics of a song they listened to
 # A group project from my CSC380 course, Design and Analysis of Algorithms. Uses a text file to keep track of songs and their characteristics. 
 # Using TreeMaps, groups songs into categories based on song name, artist, genre, and other characteristics, i.e., happy song, classical, rap song, just to name a few examples.
 # Searches for songs with the most common characteristics, given by a “fake”, or generated, user
